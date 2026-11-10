@@ -1,0 +1,14 @@
+host-suffix,apple-relay.apple.com
+host-suffix,apple-relay.cloudflare.com
+host-suffix,apple-relay.fastly-edge.com
+host-suffix,apple-relay.akamaized.net
+host-suffix,mask.apple-dns.net
+host-suffix,mask.icloud.com
+host-suffix,mask-api.icloud.com
+host-suffix,cp4.cloudflare.com
+host-suffix,apple-carry-relay.cloudflare.com
+host-suffix,gateway.icloud.com
+host-suffix,guzzoni.apple.com
+host-suffix,smoot.apple.com
+host-suffix,gspe1-ssl.ls.apple.com
+host-suffix,api-siri-prod.apple.com
